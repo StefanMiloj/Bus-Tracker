@@ -1,3 +1,3 @@
 # Bus-Tracker
 
-Project that tracks the route of a bus, triangulating the bus' longitude and latitude.
+Project that tracks the route of a bus, which pulls the longitude and latitude from a specific file of a specific bus.
